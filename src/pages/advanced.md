@@ -21,7 +21,7 @@ sections:
         style: primary
         has_icon: true
         icon: arrow-left
-        icon_position: right
+        icon_position: left
         new_window: false
         type: action
     video_embed_html: >-
