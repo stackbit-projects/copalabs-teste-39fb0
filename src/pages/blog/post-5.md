@@ -16,7 +16,7 @@ excerpt: >-
   affecit, quanto.
 thumb_image: images/classic/post-5.png
 image: images/classic/post-5.png
-image_position: left
+image_position: right
 template: post
 ---
 
